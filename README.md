@@ -60,6 +60,7 @@ Give a ⭐️ if you like this project!
 - Microverse
 - <a href="https://github.com/BrittanyBlake">My Mentor</a>
 - My Stand-Up Team
+- The Internet for all of the resources/materials I needed for my article
 
 ## 📝 License
 
