@@ -1,10 +1,6 @@
-# Project 8 - HTML and CSS Capstone Project
+# CSS Animations: A Step-by-Step Tutorial Guide to Create a Simple Bouncing Ball Animation
 
-This is a repository that hosts the files for the exercise/tutorial for the <a href="">article</a> I wrote about creating a bouncing ball animation using HTML and CSS.
-
-## Preview of CC Global Summit 2015 website
-
-![Animation preview](images/animation_preview.png)
+This is a repository that hosts the files for the exercise/tutorial for the <a href="https://medium.com/@l.rokocakau/css-animations-a-step-by-step-tutorial-guide-to-create-a-simple-bouncing-ball-animation-9c5deb1ea28d?sk=d4f4e74af7732f4cbca077134324474f">article I wrote</a> about creating a bouncing ball animation using HTML and CSS.
 
 ## Built With
 
@@ -13,11 +9,11 @@ This is a repository that hosts the files for the exercise/tutorial for the <a h
 
 ## Live Demo
 
-<a href="">Live demo</a>
+<a href="https://raw.githack.com/chelmerrox/Animations-Article-Tutorial/project-draft/index.html">Live demo</a>
 
 ## Video of Live Demo used in the article
 
-<a href="">Video used in article</a>
+<a href="https://www.loom.com/share/24d390b8aad64029a650422e3fda71b9">Video used in article</a>
 
 
 ## Getting Started
@@ -64,6 +60,7 @@ Give a ⭐️ if you like this project!
 - Microverse
 - <a href="https://github.com/BrittanyBlake">My Mentor</a>
 - My Stand-Up Team
+- The Internet for all of the resources/materials I needed for my article
 
 ## 📝 License
 
