@@ -9,11 +9,11 @@ This is a repository that hosts the files for the exercise/tutorial for the <a h
 
 ## Live Demo
 
-<a href="">Live demo</a>
+<a href="https://raw.githack.com/chelmerrox/Animations-Article-Tutorial/project-draft/index.html">Live demo</a>
 
 ## Video of Live Demo used in the article
 
-<a href="">Video used in article</a>
+<a href="https://www.loom.com/share/24d390b8aad64029a650422e3fda71b9">Video used in article</a>
 
 
 ## Getting Started
