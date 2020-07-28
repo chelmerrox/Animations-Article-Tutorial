@@ -1,6 +1,6 @@
 # CSS Animations: A Step-by-Step Tutorial Guide to Create a Simple Bouncing Ball Animation
 
-This is a repository that hosts the files for the exercise/tutorial for the <a href="">article I wrote</a> about creating a bouncing ball animation using HTML and CSS.
+This is a repository that hosts the files for the exercise/tutorial for the <a href="https://medium.com/@l.rokocakau/css-animations-a-step-by-step-tutorial-guide-to-create-a-simple-bouncing-ball-animation-9c5deb1ea28d?sk=d4f4e74af7732f4cbca077134324474f">article I wrote</a> about creating a bouncing ball animation using HTML and CSS.
 
 ## Built With
 
