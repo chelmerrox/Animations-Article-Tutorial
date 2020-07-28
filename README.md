@@ -1,4 +1,4 @@
-# Project 8 - HTML and CSS Capstone Project
+# CSS Animations: A Step-by-Step Tutorial Guide to Create a Simple Bouncing Ball Animation
 
 This is a repository that hosts the files for the exercise/tutorial for the <a href="">article</a> I wrote about creating a bouncing ball animation using HTML and CSS.
 
